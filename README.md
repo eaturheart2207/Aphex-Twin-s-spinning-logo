@@ -5,3 +5,4 @@ P.S сразу уточню файлы надо кидать в одну пап�
 
 This rotating logo reprisitorium was created solely so that the great @stere0_xd from TikTok could get his script for the rotating Aphex Twin logo and everything needed to make it work.
 P.S. Just to clarify, the files need to be placed in the same folder as the script for everything to work.
+# Я использую CRT в качестве терминала вам прийдется самим допиливать код чтобы все было в одном цвете
